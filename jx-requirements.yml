@@ -27,7 +27,7 @@ spec:
     namespaceSubDomain: -jx.
     tls:
       email: ""
-      enabled: true
+      enabled: false
       production: false
   pipelineUser:
     username: revacommcharlie

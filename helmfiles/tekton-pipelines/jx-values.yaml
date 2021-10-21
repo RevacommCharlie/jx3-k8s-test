@@ -43,7 +43,7 @@ jxRequirements:
     namespaceSubDomain: -tekton-pipelines.
     tls:
       email: ""
-      enabled: true
+      enabled: false
       production: false
   pipelineUser:
     username: revacommcharlie
