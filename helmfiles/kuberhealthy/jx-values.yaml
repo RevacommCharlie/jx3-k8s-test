@@ -41,7 +41,7 @@ jxRequirements:
     namespaceSubDomain: -kuberhealthy.
     tls:
       email: ""
-      enabled: false
+      enabled: true
       production: false
   repository: bucketrepo
   secretStorage: local
