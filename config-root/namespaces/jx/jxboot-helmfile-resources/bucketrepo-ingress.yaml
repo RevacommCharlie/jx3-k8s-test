@@ -20,7 +20,3 @@ spec:
                 port:
                   number: 80
       host: bucketrepo-jx.bigbang.dev
-  tls:
-    - hosts:
-        - bucketrepo-jx.bigbang.dev
-      secretName: "tls-bigbang-dev-s"

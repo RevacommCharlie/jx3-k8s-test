@@ -28,7 +28,3 @@ spec:
                 name: jx-pipelines-visualizer
                 port:
                   name: http
-  tls:
-    - secretName: tls-bigbang-dev-s
-      hosts:
-        - dashboard-jx.bigbang.dev

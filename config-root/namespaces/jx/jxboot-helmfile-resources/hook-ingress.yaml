@@ -21,7 +21,3 @@ spec:
                   number: 80
             path: "/hook"
       host: hook-jx.bigbang.dev
-  tls:
-    - hosts:
-        - hook-jx.bigbang.dev
-      secretName: "tls-bigbang-dev-s"
